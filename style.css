@@ -1,37 +1,68 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        body {
-  font-family: arial;
-  background-color: white;
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+ 
 }
-.page {
-  margin: 40px auto;
-  border: 2px solid black;
-  border-radius: 15px;
-  background-color: white;
-  overflow: hidden;
-  padding: 50px 200px 50px 200px;
+
+
+  
+  .wrapper {
+    width: 1170px;
+    margin: auto;
+  }
+  
+ header{
+    background: url("https://www.macobserver.com/wp-content/uploads/2018/04/AI-concept-human-head-1200x632.jpg");
+   height: 100vh;
+ -webkit-background-size: cover;
+   background-size: cover;
+   background-position: center center;
+     position: relative;
+ 
+  }
+
+
+.nav-area{ 
+float: right;
+list-style:none; 
+margin-top: 100px; 
 }
-.main-nav {
-  background-image:url(https://66.media.tumblr.com/717d70fb3289d0a7799ba2543740deb0/tumblr_mvlix4GkWh1sjwwzso1_500.gif);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center -15px;
-  padding: 20px 150px 20px 150px
+
+.nav-area li {
+  display: inline-block;
 }
-h1 {
-  background-color: purple;
+
+.nav-area a{ 
+color: #fff;
+text-decoration: none;
+padding: 10px 20px; 
+  font-family: poppins;
+  font-size: 22px;
 }
-div {
-  background-color: pink;
-  width: 300px;
-  border: 20px solid green;
-  padding: 25px;
-  margin: 25px;
+
+.nav-area li a:hover{ 
+background: #fff;
+color: #333;
 }
-p {
-  background-color: cyan;
+
+.logo img{ 
+margin-top: 75px;
+width: 75px;
+float: left;
+height: auto; 
 }
-h1 {
-  border-style: solid;
-  border-width: 25px 25px 25px 25px
+.welcome-text{ 
+position: absolute;
+width: 700px;
+height: 300px;
+margin: 20% 30%;
+text-align: center; 
+} 
+
+
+.welcome-text h1{
+  color: #fff;
+text-align:center;
+text-transform: uppercase;
+font-size: 40px;
 }

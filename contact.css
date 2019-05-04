@@ -1,0 +1,50 @@
+body {
+  font-family: tohoma;
+  background-color:dodgerblue;
+  
+}
+
+.nav-area{ 
+float: right;
+list-style:none; 
+margin-top: 50px; 
+}
+
+.nav-area li {
+  display: inline-block;
+}
+
+.nav-area a{ 
+color: #fff;
+text-decoration: none;
+padding: 10px 20px; 
+  font-family: poppins;
+  font-size: 22px;
+}
+
+.nav-area li a:hover{ 
+background: #fff;
+color: #333;
+}
+
+.logo img{ 
+margin-top: 25px;
+width: 75px;
+float: left;
+height: auto; 
+}
+
+p { 
+  border: 1px solid #fff;
+  padding: 50px 100px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size; 10px;
+  margin-top: 20px;
+  display: inline-block;
+  color: #fff;
+  position: absolute;
+  margin: 15% 20%;
+  
+}
+
