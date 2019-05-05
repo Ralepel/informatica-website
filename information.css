@@ -1,6 +1,6 @@
 body {
   font-family: tohoma;
-  background-color:dodgerblue;
+  background-color:slategray;
   
 }
 
@@ -45,7 +45,7 @@ p {
   color: #fff;
   position: absolute;
   margin: 15% 20%;
-  margin-left: 600px; 
-  margin-right:600px;
+  margin-left: 400px; 
+  margin-right:400px;
   
 }
