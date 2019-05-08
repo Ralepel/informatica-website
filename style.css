@@ -12,15 +12,11 @@ html,body {
   
   .wrapper {
     width: 100%;
-<<<<<<< HEAD
-=======
-    height: 100%;
->>>>>>> 6c67bf62356ac4409079adeaf23855c8475f17d4
     margin: auto;
   }
   
  header{
-    background: url("http://mindpluckd.com/wp-content/uploads/2017/05/ai.png");
+    background: url("https://images.pexels.com/photos/1166602/pexels-photo-1166602.png?cs=srgb&dl=artificial-intelligence-artwork-brain-1166602.jpg&fm=jpg");
    height: 100%;
    background-size: cover;
    background-position: center center;
@@ -32,7 +28,7 @@ html,body {
 .nav-area{ 
 float: right;
 list-style:none; 
-margin-top: 5%; 
+margin-top: 100px; 
 }
 
 .nav-area li {
@@ -53,16 +49,16 @@ color: #333;
 }
 
 .logo img{ 
-margin-top: 2%;
+margin-top: 75px;
 width: 75px;
 float: left;
 height: auto; 
 }
 .welcome-text{ 
 position: absolute;
-width: 100%;
-height: 300px;
-margin: 20% 30%;
+width: relative;
+bottom: 50%;
+  right 20%;
 text-align: center; 
 } 
 
