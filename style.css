@@ -1,24 +1,27 @@
-* {
+html,body {
   margin: 0;
   padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
  
 }
 
 
   
   .wrapper {
-    width: 1170px;
+    width: 100%;
     margin: auto;
   }
   
  header{
-    background: url("https://www.macobserver.com/wp-content/uploads/2018/04/AI-concept-human-head-1200x632.jpg");
-   height: 100vh;
- -webkit-background-size: cover;
+    background: url("http://mindpluckd.com/wp-content/uploads/2017/05/ai.png");
+   height: 100%;
    background-size: cover;
    background-position: center center;
-     position: relative;
- 
+   position: relative;
+   background-repeat: no-repeat;
   }
 
 
@@ -53,7 +56,7 @@ height: auto;
 }
 .welcome-text{ 
 position: absolute;
-width: 700px;
+width: 100%;
 height: 300px;
 margin: 20% 30%;
 text-align: center; 
