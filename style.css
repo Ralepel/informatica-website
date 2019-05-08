@@ -56,9 +56,8 @@ height: auto;
 }
 .welcome-text{ 
 position: absolute;
-width: relative;
 bottom: 50%;
-  right 20%;
+  left: 21%;
 text-align: center; 
 } 
 
