@@ -28,10 +28,9 @@ color: #333;
 }
 
 .logo img{ 
-margin-top: 25px;
 width: 75px;
 float: left;
-height: auto; 
+margin-top: 0px; 
 }
 
 p { 

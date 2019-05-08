@@ -49,15 +49,14 @@ color: #333;
 }
 
 .logo img{ 
-margin-top: 75px;
 width: 75px;
 float: left;
-height: auto; 
+margin-top: 50px; 
 }
 .welcome-text{ 
 position: absolute;
 bottom: 50%;
-  left: 21%;
+ left: 21%;
 text-align: center; 
 } 
 
