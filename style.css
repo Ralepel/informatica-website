@@ -12,6 +12,10 @@ html,body {
   
   .wrapper {
     width: 100%;
+<<<<<<< HEAD
+=======
+    height: 100%;
+>>>>>>> 6c67bf62356ac4409079adeaf23855c8475f17d4
     margin: auto;
   }
   
@@ -28,7 +32,7 @@ html,body {
 .nav-area{ 
 float: right;
 list-style:none; 
-margin-top: 100px; 
+margin-top: 5%; 
 }
 
 .nav-area li {
@@ -49,7 +53,7 @@ color: #333;
 }
 
 .logo img{ 
-margin-top: 75px;
+margin-top: 2%;
 width: 75px;
 float: left;
 height: auto; 
