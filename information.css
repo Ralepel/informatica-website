@@ -1,6 +1,6 @@
 body {
-  font-family: tohoma;
-  background-color:slategray;
+  font-family: Palatino Linotype;
+  background-color: grey;
   
 }
 
@@ -15,7 +15,7 @@ margin-top: 50px;
 }
 
 .nav-area a{ 
-color: #fff;
+color: #000000;
 text-decoration: none;
 padding: 10px 20px; 
   font-family: poppins;
@@ -24,7 +24,7 @@ padding: 10px 20px;
 
 .nav-area li a:hover{ 
 background: #fff;
-color: #333;
+color:#000000;
 }
 
 .logo img{ 
@@ -41,10 +41,10 @@ p {
   font-size; 10px;
   margin-top: 20px;
   display: inline-block;
-  color: #fff;
+  color: #000000;
   position: absolute;
   margin: 15% 20%;
-  margin-left: 400px; 
-  margin-right:400px;
+  margin-left: 200px; 
+  margin-right:200px;
   
 }
