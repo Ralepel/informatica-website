@@ -33,12 +33,19 @@ float: left;
 margin-top: 0px; 
 }
 
+h1 {
+  display: inline-block;
+  position: absolute;
+   margin: 15% 20%;
+  margin-left: 150px; 
+  margin-right: 150px;
+   padding: 5px 100px;
+}
 p { 
   border: 1px solid #fff;
   padding: 50px 100px;
   text-decoration: none;
-  
-  font-size; 10px;
+  font-size; 30px;
   margin-top: 20px;
   display: inline-block;
   color: #000000;
