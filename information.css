@@ -1,6 +1,6 @@
 body {
   font-family: Palatino Linotype;
-  background-color: yellowgreen;
+  background-color: darkcyan;
   
 }
 
@@ -14,7 +14,7 @@ html,body {
 .logo img{ 
 width: 68px;
 float: right;
-margin-top: -67px;
+margin-top: -69px;
 margin-right: 1%;
 }
 
@@ -142,7 +142,6 @@ p, h1{
     margin: 7% ;
   margin-left: 10%; 
   margin-right: 10%;
-   border: 1px solid #fff;
   padding: 50px 100px;
   display: inline-block;
   color: #000000;
