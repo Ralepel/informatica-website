@@ -145,4 +145,5 @@ table, th, td {
 
 img{
   float: left;
+  border-radius: 20px;
 }
