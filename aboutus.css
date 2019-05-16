@@ -1,6 +1,6 @@
 body {
   font-family: tohoma;
-  background-color: slategray;
+  background-color:slategray;
   
 }
 
@@ -14,11 +14,8 @@ html,body {
 .logo img{ 
 width: 68px;
 float: right;
-margin-top: -67px;
+margin-top: -69px;
 margin-right: 1%;
-}
-div{ 
-border: solid 1px white;
 }
 
 @media screen and (min-width: 377px) {
@@ -129,7 +126,21 @@ border: solid 1px white;
 .sidebar, .openbtn {
   display: none;
 }
-
-
-
-
+.page-content{ 
+  border: 1px solid #fff;
+  border-radius: 10px 10px 10px 10px;
+  padding: 50px 100px;
+  text-decoration: none;
+  text-transform: none;
+  font-size; 10px;
+  margin-top: 10%;
+  display: inline-block;
+  color: #fff;
+  position: absolute;
+  margin: 5% 20%;
+  
+}
+table, th, td {
+  border: 1px solid white;
+  border-radius: 5px 5px 5px 5px;
+}
