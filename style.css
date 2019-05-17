@@ -187,7 +187,7 @@ header {
   padding: 50px 100px;
   text-decoration: none;
   text-transform: none;
-  font-size: 10px;
+  font-size: 15px;
   margin-top: 10%;
   display: inline-block;
   position: absolute;
@@ -322,6 +322,7 @@ fieldset {
   width: 100%;
   margin: 0 auto;
   position: relative;
+ 
 }
 
 p.image {
