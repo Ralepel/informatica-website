@@ -13,9 +13,7 @@ body {
   background-blend-mode: lighten;
 }
 
-.video {
-  display: none;
-}
+
 
 .logo img {
   width: 68px;
@@ -122,25 +120,20 @@ body {
   display: none;
 }
 
-h1 {
-  background: #F9F9F9;
-  padding: 25px;
-  margin: 50px 200px;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
-}
 
-p {
-  margin: 7%;
-  left: 10%;
-  right: 10%;
+
+.tekst {
+  margin: 0%;
+  left: 5%;
+  right: 5%;
   display: inline-block;
   color: #000000;
   position: absolute;
 }
 
-p {
+.tekst {
   background: #F9F9F9;
-  padding: 25px;
+  padding: 10px;
   margin: 50px 200px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
