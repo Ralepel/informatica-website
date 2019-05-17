@@ -201,7 +201,7 @@ td {
   border-radius: 5px 5px 5px 5px;
 }
 
-img.ronded {
+img.rounded {
   float: left;
   border-radius: 20px;
 }
@@ -327,4 +327,5 @@ fieldset {
 
 p.image {
   text-align: center;
+  
 }
