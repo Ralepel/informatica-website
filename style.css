@@ -8,7 +8,7 @@ body {
 
 body {
   font-family: Palatino Linotype;
-  background-image: url("http://www.gsfdcy.com/data/img/34/1511792-futuristic-wallpaper.jpg");
+  background-image: url("bg.jpg");
   background-color: rgba(255, 255, 255, 0.6);
   background-blend-mode: lighten;
 }
@@ -26,7 +26,6 @@ header {
   position: relative;
   background-repeat: no-repeat;
 }
-
 
 .welcome-text h1 {
   color: #fff;
